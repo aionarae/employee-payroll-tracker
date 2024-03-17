@@ -6,3 +6,6 @@ This is an employee payroll tracker for my 2nd project for the coding bootcamp.
 
 # Link to deployed application
 https://aionarae.github.io/employee-payroll-tracker
+
+# Code Source
+I used ChatGPT to help clean up my code.
