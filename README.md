@@ -1,5 +1,5 @@
 # Employee Payroll Tracker Starter Code
-This is an employee payrroll tracker for my 2nd project for the coding bootcamp.
+This is an employee payroll tracker for my 2nd project for the coding bootcamp.
 
 # Screenshot
 ![Alt text](Employee-Payroll-Tracke-screeenshot.png "Site screenshot")
